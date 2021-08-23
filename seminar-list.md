@@ -219,7 +219,7 @@ django와 spring boot는 세미나 0 이후 결정하게 되므로, backend로 �
 |               |                            |              |                     |
 | 전연재        | jyjsvceo                   |              |                     |
 |               |                            |              |                     |
-| 전진용        | junjinyong                 |        backend      |        react             |
+| 전진용        | junjinyong                 |              |                     |
 |               |                            |              |                     |
 | 전현성        | yeonsumia                  |              |                     |
 |               |                            |              |                     |
